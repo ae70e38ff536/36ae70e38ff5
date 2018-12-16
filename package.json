@@ -1,0 +1,19 @@
+{
+  "name": "36ae70e38ff5",
+  "version": "1.0.6",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ae70e38ff536/36ae70e38ff5.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ae70e38ff536/36ae70e38ff5/issues"
+  },
+  "homepage": "https://github.com/ae70e38ff536/36ae70e38ff5#readme"
+}
